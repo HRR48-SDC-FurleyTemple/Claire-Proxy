@@ -1,1 +1,1 @@
-# review-proxy
+# Similar Products Proxy
